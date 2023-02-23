@@ -1,8 +1,9 @@
 - top bun
-- mayo
+- onions
+- swiss cheese
 -
 -
--
+- 
 -
 - tomato sauce
 - bottom bun
