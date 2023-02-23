@@ -1,8 +1,7 @@
 - top bun
-- 
-- Cheese
+- onions
+- swiss cheese
 -
--
--
+- tomato sauce
 - Cheese
 - bottom bun
